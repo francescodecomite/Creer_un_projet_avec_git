@@ -26,4 +26,6 @@ La solution que j'utilise est la suivante :
     * Dans la description, je mets juste un lien vers le dépôt
 
 Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/projects/martin-s-menace-un-puzzle-tres-enervant-a-decouper-au-laser)) sur le site
-du Fabricarium. 
+du Fabricarium correspond à la définition ci-dessus.
+ 
+## La démarche en pratique
