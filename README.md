@@ -16,3 +16,11 @@ juste en diffusant l'adresse où est rangé le projet.
 
 ### Indépendance par rapport au site du Fabricarium
 Il m'est déjà arrivé de perdre toutes mes docs lors d'une refonte du site...
+
+## Comment peut-on faire ? 
+La solution que j'utilise est la suivante : 
+* Je crée un dépôt GIT où j'entrepose mon projet. 
+* Sur le site du Fabricarium, je crée un projet, dans la gallerie des projets, avec : 
+** Une photo
+** Un titre
+** Dans la description, je mets juste un lien vers le dépôt
