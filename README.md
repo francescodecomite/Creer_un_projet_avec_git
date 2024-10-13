@@ -46,3 +46,7 @@ de toutes les modifications et ajouts. L'administrateur peut inscrire d'autres m
 	[Vous pouvez charger et installer GIT à partir de ce site](https://git-scm.com/downloads). C'est une bonne idée d'installer aussi une interface qui vous simplifie la vie, 
 GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows. 
 2. ### Ouvrir un compte où vous pourrez stocker vos dépôts
+
+
+Une fois que vous avez ouvert GITHUB, choisissez File>Options>Accounts et ouvrez un compte chez Github.com. A vous de voir comment ça se passe avec d'autres interfaces (il en existe peut-être une
+sur les serveurs de l'Université. En fait, non); 
