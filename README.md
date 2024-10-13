@@ -78,9 +78,10 @@ En gros, on peu mettre des termes en gras, en italique, insérer des liens, des 
 6. ### Informer
 
 	Récupérer l'adresse de la page Github du projet, et rendez-là disponible pour les utilisateurs. Ils pourront alors voir cette page, lire le *README*, récupérer les fichiers, et donc
-mener à bien le projet. SI c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
-		1. Vous leur avez donné l'autorisation
-		2. ils vous contactent pour proposer une modification, et vous l'avalisez ou pas. 
+mener à bien le projet. Si c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
+
+        1. Vous leur avez donné l'autorisation
+        2. ils vous contactent pour proposer une modification, et vous l'avalisez ou pas. 
 	
 
 
