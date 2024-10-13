@@ -59,7 +59,9 @@ Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce
 Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
 Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
 Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté. 
+
 4. ### Déposer un projet
+
 Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
 	1. La première phase, c'est de *faire un commit*, n'oubliez pas de mettre un résumé (summary). 
 	2. Mais c'est pas suffisant, il vous faut encore *faire un push*. Vous pouvez ensuite demander de *Open the repository page on Github in your browser* : vous y verrez les fichiers que vous venez d'ajouter. 
