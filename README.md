@@ -75,7 +75,7 @@ Toutes les infos sur le projet seront mises dans le *README*. C'est un fichier �
 
 En gros, on peu mettre des termes en gras, en italique, insérer des liens, des images...
 
-6. ###Informer
+6. ### Informer
 
 	Récupérer l'adresse de la page Github du projet, et rendez-là disponible pour les utilisateurs. Ils pourront alors voir cette page, lire le *README*, récupérer les fichiers, et donc
 mener à bien le projet. SI c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
