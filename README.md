@@ -62,7 +62,7 @@ sur les serveurs de l'Université. En fait, non)
 
 4. ### Déposer un projet
 
-Sur votre ordinateur, déposez les fichiers qui composent votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
+Sur votre ordinateur, déposez les fichiers qui composent votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveaux fichiers, et il va vous demander de les charger dans le dépôt.
 
 
    * La première phase, c'est de _faire un commit_ (*commit to main*), n'oubliez pas de mettre un résumé (summary). 
@@ -75,7 +75,13 @@ Toutes les infos sur le projet seront mises dans le *README*. C'est un fichier �
 
 En gros, on peu mettre des termes en gras, en italique, insérer des liens, des images...
 
-6. ### Informer
+6. ### Modifier votre projet et mettre à jour le dépôt
+
+Vous pouvez maintenant traviller en local sur votre ordinateur à votre projet, modifier ou ajouter des fichiers ou des répertoires.
+
+A un moment, il faudra mettre à jour votre dépôt : c'est-à-dire _faire un commit_ puis un _push_. En fait, à part la création du répertoire, ce sont les deux seules commandes que vous utiliserez.
+
+7. ### Informer
 
 	Récupérer l'adresse de la page Github du projet, et rendez-là disponible pour les utilisateurs. Ils pourront alors voir cette page, lire le *README*, récupérer les fichiers, et donc
 mener à bien le projet. Si c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
