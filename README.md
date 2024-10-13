@@ -45,6 +45,7 @@ de toutes les modifications et ajouts. L'administrateur peut inscrire d'autres m
 1. ### Installer GIT sur sa/ses machines. 
 	[Vous pouvez charger et installer GIT à partir de ce site](https://git-scm.com/downloads). C'est une bonne idée d'installer aussi une interface qui vous simplifie la vie, 
 GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows. 
+
 2. ### Ouvrir un compte où vous pourrez stocker vos dépôts
 
 
@@ -53,11 +54,11 @@ sur les serveurs de l'Université. En fait, non)
 
 3. ### Créer un dépôt
 
-	Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
-	Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier RFeadme, qui contient la doc de votre projet. 
-	Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
-	Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
-	Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté.  
+Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
+Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier RFeadme, qui contient la doc de votre projet. 
+Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
+Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
+Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté.  
 4. ### Déposer un projet
 Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
 	1. La première phase, c'est de *faire un commit*, n'oubliez pas de mettre un résumé (summary). 
