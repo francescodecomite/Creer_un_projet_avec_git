@@ -39,7 +39,10 @@ Git permet ausi de gérer les versions, de revenir en arrière, de créer des br
  Les utilisateurs (en fait l'un d'entre eux), crée un *dépôt* : un endroit quelque part dans l'éther qui contiendra la dernière version courante du projet, ainsi que l'historique
 de toutes les modifications et ajouts. L'administrateur peut inscrire d'autres membres avec des rôles qui peuvent légèrement différer, et les droits correspondants. 
 
+### Pour ceux qui veulent accéder au projet et le réaliser
 
+On a dû vous communiquer une adresse, cliquer dessus vous aménera sur le dépôt, où vous pourrez consulter ou charger les fichiers qui vous intéressent. Vous pouvez charger une copie du projet 
+dans votre propre github, mais si c'est le cas, alors ça veut dire que vous n'avez pas besoin de mes explications. 
  
 ## La démarche en pratique pour un  auteur de projets
 1. ### Installer GIT sur sa/ses machines. 
@@ -87,7 +90,7 @@ A un moment, il faudra mettre à jour votre dépôt : c'est-à-dire _faire un co
 mener à bien le projet. Si c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
 
    1. Vous leur avez donné l'autorisation.
-   2. ils vous contactent pour proposer une modification, et vous l'avalisez ou pas. 
+   2. Ils vous contactent pour proposer une modification, et vous l'avalisez ou pas. 
 	
 
 
