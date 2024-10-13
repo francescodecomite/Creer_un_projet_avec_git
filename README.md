@@ -60,17 +60,17 @@ sur les serveurs de l'Université. En fait, non)
 
    * Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme* ![Ouvrir un compte](images/newrep.JPG)
    * Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier Readme, qui contient la doc de votre projet. 
-   * Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
+   * Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.![Envoyer sur Github](images/publish.JPG)
    * Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
-   * Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté. 
+   * Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté.
 
 4. ### Déposer un projet
   
-Sur votre ordinateur, déposez les fichiers qui composent votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveaux fichiers, et il va vous demander de les charger dans le dépôt.
+Sur votre ordinateur, déposez les fichiers qui composent votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveaux fichiers, et il va vous demander de les charger dans le dépôt.![Des fichiers à rajouter](images/init.JPG)
 
 
    * La première phase, c'est de _faire un commit_ (*commit to main*), n'oubliez pas de mettre un résumé (summary). 
-   * Mais c'est pas suffisant, il vous faut encore _faire un push_. Vous pouvez ensuite demander de *Open the repository page on Github in your browser* : vous y verrez les fichiers que vous venez d'ajouter. 
+   * Mais c'est pas suffisant, il vous faut encore _faire un push_. Vous pouvez ensuite demander de *Open the repository page on Github in your browser* : vous y verrez les fichiers que vous venez d'ajouter. ![github modifié](images/view.JPG)
 
 
 5. ### Remplir la doc
