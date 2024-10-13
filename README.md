@@ -29,3 +29,5 @@ Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/pro
 du Fabricarium correspond à la définition ci-dessus.
  
 ## La démarche en pratique
+1. bla
+2. bla
