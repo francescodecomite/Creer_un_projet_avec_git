@@ -41,7 +41,7 @@ de toutes les modifications et ajouts. L'administrateur peut inscrire d'autres m
 
 
  
-## La démarche en pratique
+## La démarche en pratique pour un  auteur de projets
 1. ### Installer GIT sur sa/ses machines. 
 	[Vous pouvez charger et installer GIT à partir de ce site](https://git-scm.com/downloads). C'est une bonne idée d'installer aussi une interface qui vous simplifie la vie, 
 GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows. 
@@ -49,4 +49,29 @@ GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows.
 
 
 Une fois que vous avez ouvert GITHUB, choisissez File>Options>Accounts et ouvrez un compte chez Github.com. A vous de voir comment ça se passe avec d'autres interfaces (il en existe peut-être une
-sur les serveurs de l'Université. En fait, non); 
+sur les serveurs de l'Université. En fait, non)
+3. ### Créer un dépôt
+	Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
+	Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier RFeadme, qui contient la doc de votre projet. 
+	Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
+	Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
+	Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté.  
+4. ### Déposer un projet
+Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
+	1. La première phase, c'est de *faire un commit*, n'oubliez pas de mettre un résumé (summary). 
+	2. Mais c'est pas suffisant, il vous faut encore *faire un push*. Vous pouvez ensuite demander de *Open the repository page on Github in your browser* : vous y verrez les fichiers que vous venez d'ajouter. 
+5. ### Remplir la doc
+Toutes les infos sur le projet seront mises dans le *README*. C'est un fichier écrit en *markdown*, un langage de formatage de texte pas trop compliqué. Il existe plein de tutoriaux, et vous pouvez aussi regardez comment le fichier que vous êtres en train de lire est formaté, en regardant la version *RAW* du fichier dans Github. 
+
+En gros, on peu mettre des termes en gras, en italique, insérer des liens, des images...
+6. ###Informer
+	Récupérer l'adresse de la page Github du projet, et rendez-là disponible pour les utilisateurs. Ils pourront alors voir cette page, lire le *README*, récupérer les fichiers, et donc
+mener à bien le projet. SI c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
+		1. Vous leur avez donné l'autorisation
+		2. ils vous contactent pour proposer une modification, et vous l'avalisez ou pas. 
+	
+
+
+
+
+
