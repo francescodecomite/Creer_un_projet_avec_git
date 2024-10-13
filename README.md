@@ -65,8 +65,8 @@ Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant
 Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
 
 
-   * La première phase, c'est de faire un commit, n'oubliez pas de mettre un résumé (summary). 
-   * Mais c'est pas suffisant, il vous faut encore faire un push. Vous pouvez ensuite demander de Open the repository page on Github in your browser : vous y verrez les fichiers que vous venez d'ajouter. 
+   * La première phase, c'est de _faire un commit_ (*commit to main*), n'oubliez pas de mettre un résumé (summary). 
+   * Mais c'est pas suffisant, il vous faut encore _faire un push_. Vous pouvez ensuite demander de *Open the repository page on Github in your browser* : vous y verrez les fichiers que vous venez d'ajouter. 
 
 
 5. ### Remplir la doc
@@ -80,7 +80,7 @@ En gros, on peu mettre des termes en gras, en italique, insérer des liens, des 
 	Récupérer l'adresse de la page Github du projet, et rendez-là disponible pour les utilisateurs. Ils pourront alors voir cette page, lire le *README*, récupérer les fichiers, et donc
 mener à bien le projet. Si c'est des geeks, ils pourront même recopier le projet (on dit *cloner*) dans leur github, et travailler dessus. Par contre, ils ne pourront pas le modifier, à moins que : 
 
-   1. Vous leur avez donné l'autorisation
+   1. Vous leur avez donné l'autorisation.
    2. ils vous contactent pour proposer une modification, et vous l'avalisez ou pas. 
 	
 
