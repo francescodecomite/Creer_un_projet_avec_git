@@ -64,8 +64,8 @@ Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant
 
 Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
 
-    * La première phase, c'est de faire un commit, n'oubliez pas de mettre un résumé (summary). 
-    * Mais c'est pas suffisant, il vous faut encore faire un push. Vous pouvez ensuite demander de Open the repository page on Github in your browser : vous y verrez les fichiers que vous venez d'ajouter. 
+              * La première phase, c'est de faire un commit, n'oubliez pas de mettre un résumé (summary). 
+              * Mais c'est pas suffisant, il vous faut encore faire un push. Vous pouvez ensuite demander de Open the repository page on Github in your browser : vous y verrez les fichiers que vous venez d'ajouter. 
 
 5. ### Remplir la doc
 
