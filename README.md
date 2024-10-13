@@ -29,6 +29,7 @@ Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/pro
 du Fabricarium correspond à la définition ci-dessus.
 
 ## Le principe
+
 	GIT est un gestionnaire de versions. Il est normalement utilisé par des groupes de programmeurs qui travaillent ensemble sur un projet comportant de nombreux ficjhiers et répertoire. 
 
  	Les utilisateurs (en fait l'un d'entre eux), crée un *dépôt* : un endroit quelque part dans l'éther qui contiendra la dernière version courante du projet, ainsi que l'historique
