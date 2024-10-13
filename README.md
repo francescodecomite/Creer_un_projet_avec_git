@@ -23,7 +23,7 @@ La solution que j'utilise est la suivante :
 * Sur le site du Fabricarium, je crée un projet, dans la gallerie des projets, avec : 
     * Une photo
     * Un titre
-    * Dans la description, je mets juste un lien vers le dépôt
+    * Dans la description, je mets juste un lien vers le dépôt.
 
 Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/projects/martin-s-menace-un-puzzle-tres-enervant-a-decouper-au-laser) sur le site
 du Fabricarium correspond à la définition ci-dessus.
@@ -39,25 +39,26 @@ Git permet ausi de gérer les versions, de revenir en arrière, de créer des br
  Les utilisateurs (en fait l'un d'entre eux), crée un *dépôt* : un endroit quelque part dans l'éther qui contiendra la dernière version courante du projet, ainsi que l'historique
 de toutes les modifications et ajouts. L'administrateur peut inscrire d'autres membres avec des rôles qui peuvent légèrement différer, et les droits correspondants. 
 
-### Pour ceux qui veulent accéder au projet et le réaliser
+### Pour ceux qui veulent accéder au projet et le réaliser.
 
 On a dû vous communiquer une adresse, cliquer dessus vous aménera sur le dépôt, où vous pourrez consulter ou charger les fichiers qui vous intéressent. Vous pouvez charger une copie du projet 
 dans votre propre github, mais si c'est le cas, alors ça veut dire que vous n'avez pas besoin de mes explications. 
  
-## La démarche en pratique pour un  auteur de projets
+## La démarche en pratique pour un  auteur de projets.
 1. ### Installer GIT sur sa/ses machines. 
 	[Vous pouvez charger et installer GIT à partir de ce site](https://git-scm.com/downloads). C'est une bonne idée d'installer aussi une interface qui vous simplifie la vie, 
 GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows. 
 
-2. ### Ouvrir un compte où vous pourrez stocker vos dépôts
+2. ### Ouvrir un compte où vous pourrez stocker vos dépôts.
 
 
 Une fois que vous avez ouvert Github, choisissez _File>Options>Accounts_ et ouvrez un compte chez Github.com. A vous de voir comment ça se passe avec d'autres interfaces (il en existe peut-être une
 sur les serveurs de l'Université. En fait, non)
 
+
 3. ### Créer un dépôt
 
-   * Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
+   * Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme* ![Ouvrir un compte](images/newrep.jpg "a title")
    * Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier Readme, qui contient la doc de votre projet. 
    * Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
    * Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
