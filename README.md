@@ -1,4 +1,7 @@
 # Creer_un_projet_avec_git
+
+
+*SI ce qui suit n'est pas clair, ou si vous avez des questions ou des remarques, contactez-moi : francesco.decomite at univ-lille.fr*
  ## Le but du jeu
 
 ### Faciliter l'écriture de la documentation et la maintenance des fichiers qui la compose. 
