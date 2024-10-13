@@ -58,7 +58,7 @@ sur les serveurs de l'Université. En fait, non)
 
 3. ### Créer un dépôt
 
-   * Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme* [Ouvrir un compte](/images/init.JPG> "a title")
+   * Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme* [Ouvrir un compte](images/init.JPG> "a title")
    * Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier Readme, qui contient la doc de votre projet. 
    * Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
    * Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
