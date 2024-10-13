@@ -65,7 +65,7 @@ sur les serveurs de l'Université. En fait, non)
    * Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté. 
 
 4. ### Déposer un projet
-
+  
 Sur votre ordinateur, déposez les fichiers qui composent votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveaux fichiers, et il va vous demander de les charger dans le dépôt.
 
 
