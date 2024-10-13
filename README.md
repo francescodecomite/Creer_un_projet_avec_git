@@ -62,7 +62,7 @@ sur les serveurs de l'Université. En fait, non)
 
 4. ### Déposer un projet
 
-Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
+Sur votre ordinateur, déposez les fichiers qui composent votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
 
 
    * La première phase, c'est de _faire un commit_ (*commit to main*), n'oubliez pas de mettre un résumé (summary). 
