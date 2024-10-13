@@ -27,8 +27,17 @@ La solution que j'utilise est la suivante :
 
 Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/projects/martin-s-menace-un-puzzle-tres-enervant-a-decouper-au-laser)) sur le site
 du Fabricarium correspond à la définition ci-dessus.
+
+## Le principe
+	GIT est un gestionnaire de versions. Il est normalement utilisé par des groupes de programmeurs qui travaillent ensemble sur un projet comportant de nombreux ficjhiers et répertoire. 
+
+ 	Les utilisateurs (en fait l'un d'entre eux), crée un *dépôt* : un endroit quelque part dans l'éther qui contiendra la dernière version courante du projet, ainsi que l'historique
+de toutes les modifications et ajouts. L'administrateur peut inscrire d'autres membres avec des rôles qui peuvent légèrement différer, et les droits correspondants. 
+
+
  
 ## La démarche en pratique
 1. ### Installer GIT sur sa/ses machines. 
-	bla
-2. bla
+	[Vous pouvez charger et installer GIT à partir de ce site](https://git-scm.com/downloads). C'est une bonne idée d'installer aussi une interface qui vous simplifie la vie, 
+GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows. 
+2. ### Ouvrir un compte où vous pourrez stocker vos dépôts
