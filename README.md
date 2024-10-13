@@ -63,9 +63,12 @@ Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant
 4. ### Déposer un projet
 
 Sur votre ordinateur, déposez votre projet au même endroit que les deux fichiers créés par Github.  Github va repérer que ce répertoire contient de nouveau fichiers, et il va vous demander de les charger dans le dépôt.
+
 	1. La première phase, c'est de *faire un commit*, n'oubliez pas de mettre un résumé (summary). 
 	2. Mais c'est pas suffisant, il vous faut encore *faire un push*. Vous pouvez ensuite demander de *Open the repository page on Github in your browser* : vous y verrez les fichiers que vous venez d'ajouter. 
+
 5. ### Remplir la doc
+
 Toutes les infos sur le projet seront mises dans le *README*. C'est un fichier écrit en *markdown*, un langage de formatage de texte pas trop compliqué. Il existe plein de tutoriaux, et vous pouvez aussi regardez comment le fichier que vous êtres en train de lire est formaté, en regardant la version *RAW* du fichier dans Github. 
 
 En gros, on peu mettre des termes en gras, en italique, insérer des liens, des images...
