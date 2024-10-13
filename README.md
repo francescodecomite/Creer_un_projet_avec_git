@@ -19,18 +19,18 @@ Il m'est déjà arrivé de perdre toutes mes docs lors d'une refonte du site...
 
 ## Comment peut-on faire ? 
 La solution que j'utilise est la suivante : 
-* Je crée un dépôt GIT où j'entrepose mon projet. 
+* Je crée un *dépôt GIT* où j'entrepose mon projet. 
 * Sur le site du Fabricarium, je crée un projet, dans la gallerie des projets, avec : 
     * Une photo
     * Un titre
     * Dans la description, je mets juste un lien vers le dépôt
 
-Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/projects/martin-s-menace-un-puzzle-tres-enervant-a-decouper-au-laser)) sur le site
+Par exemple, ce [projet](https://fabricarium-fabmanager.polytech-lille.fr/#!/projects/martin-s-menace-un-puzzle-tres-enervant-a-decouper-au-laser) sur le site
 du Fabricarium correspond à la définition ci-dessus.
 
-## Le principe
+## Le principe (vous pouvez ignorer ce paragraphe)
 
-GIT est un gestionnaire de versions. Il est normalement utilisé par des groupes de programmeurs qui travaillent ensemble sur un projet comportant de nombreux fichiers et répertoire. 
+GIT est un gestionnaire de versions. Il est normalement utilisé par des groupes de programmeurs qui travaillent ensemble sur un projet comportant de nombreux fichiers et répertoires. 
 
 Quand un collaborateur décide de travailler sur le projet, il va chercher dans le dépôt la version courante à jour du projet, qui est alors chargée sur son ordinateur. Lorsqu'il a fini ses ajouts et modifications, il renvoie les fichiers sur le dépôt. Git vérifie alors qu'il n'y a pas de conflit entre les versions travaillées par plusieurs collaborateurs. Si c'est le cas, il prévient les utilisateurs, à eux de régler le conflit. Mais en fait on s'en moque, puisque dans notre cas, on est seul utilisateur. 
 
@@ -49,16 +49,16 @@ GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows.
 2. ### Ouvrir un compte où vous pourrez stocker vos dépôts
 
 
-Une fois que vous avez ouvert GITHUB, choisissez File>Options>Accounts et ouvrez un compte chez Github.com. A vous de voir comment ça se passe avec d'autres interfaces (il en existe peut-être une
+Une fois que vous avez ouvert Github, choisissez _File>Options>Accounts_ et ouvrez un compte chez Github.com. A vous de voir comment ça se passe avec d'autres interfaces (il en existe peut-être une
 sur les serveurs de l'Université. En fait, non)
 
 3. ### Créer un dépôt
 
-Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
-Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier Readme, qui contient la doc de votre projet. 
-Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
-Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
-Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté. 
+   *Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
+   * Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier Readme, qui contient la doc de votre projet. 
+   * Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
+   * Vous devez maintenant avoir sur votre ordinateur un répertoire qui contient un fichier *.gitattributes* auquel on ne touche pas, et un fichier *README.md* que vous complèterez par la suite.
+   * Pour voir ce que vous avez fait, vous pouvez visualiser le résultat en cliquant sur *Open the repository page on Github in your browser*. On y voit la liste de vos fichiers et répertoires sur  Github, ainsi que le contenu du README, correctement formaté. 
 
 4. ### Déposer un projet
 
