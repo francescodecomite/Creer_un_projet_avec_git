@@ -50,7 +50,9 @@ GIT vous en propose plusieurs. Personnellement, j'ai choisi Github sous Windows.
 
 Une fois que vous avez ouvert GITHUB, choisissez File>Options>Accounts et ouvrez un compte chez Github.com. A vous de voir comment ça se passe avec d'autres interfaces (il en existe peut-être une
 sur les serveurs de l'Université. En fait, non)
+
 3. ### Créer un dépôt
+
 	Dans le menu File, choisissez *New repository*, donnez un nom à votre projet, et cochez la case *Initialize with a Readme*
 	Créez le dépôt sur Github.com, donnez-lui un nom et une description, c'est ce qui apparaîtra dans le fichier RFeadme, qui contient la doc de votre projet. 
 	Une fois que c'est fait, il vous faut encore *publier* votre dépôt : décochez la case *Keep this code private*.
